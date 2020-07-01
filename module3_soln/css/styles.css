@@ -10,7 +10,7 @@ body {
 	background-color: #f6b319;
 	border-radius: 0;
 	border: 0;
-	color: white;
+	color: black;
 }
 
 .navbar-brand p {
@@ -44,9 +44,10 @@ body {
 }
 
 .row > div > article {
-	background-color: white;
+	background-color: grey;
 	text-align: justify;
 	margin-bottom: 20px;
+	padding: 20px ;
 	color: black;
 }
 /* End Section */
